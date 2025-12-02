@@ -1,0 +1,11 @@
+{
+  "name": "dev-browser",
+  "version": "1.0.0",
+  "description": "Browser automation skill with persistent page state for developers and AI agents.",
+  "author": {
+    "name": "Sawyer Hood",
+    "email": "sawyerhood@example.com"
+  },
+  "license": "MIT",
+  "keywords": ["browser", "playwright", "automation", "testing", "debugging", "web"]
+}
