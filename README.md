@@ -95,7 +95,7 @@ Prompt Claude to use it! Amp will automatically load the skill when needed.
 
 ### For Codex (CLI)
 
-Codex automatically detects skills from your `~/.codex/skills` directory.
+Codex automatically detects skills from your `~/.codex/skills` directory when you run it with `codex --enable skills`.
 
 #### Step 1: Install the Skill
 
@@ -111,7 +111,7 @@ rm -rf /tmp/dev-browser-skill
 
 #### Step 2: Use It!
 
-Restart Codex after installation, then ask it to use dev-browser.
+Restart Codex (using `codex --enable skills`) after installation, then ask it to use dev-browser.
 
 ## Permissions Configuration
 
